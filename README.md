@@ -1,4 +1,4 @@
-*Create a .env file and add your variables below:
+Create a .env file and add your variables below:
 
 - NODE_ENV = YOUR_NODE_ENV_HERE
   
